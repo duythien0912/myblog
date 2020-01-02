@@ -1,18 +1,17 @@
 [
  {
   "username": "duythien0912",
-  "name": null,
+  "name": "Duy Thien",
   "userimg": "https://avatars0.githubusercontent.com/u/20185622?v=4",
-  "sort": "updated",
-  "order": "desc",
+  "sort": "created",
+  "order": "asc",
   "includeFork": false,
-  "theme": "light.css",
+  "theme": "dark.css",
   "types": [
-   "owner"
+   "all"
   ],
-  "twitter": null,
-  "linkedin": null,
-  "medium": null,
-  "dribbble": null
+  "twitter": "dragondra1",
+  "linkedin": "duythien0912",
+  "medium": "duythien0914"
  }
 ]
